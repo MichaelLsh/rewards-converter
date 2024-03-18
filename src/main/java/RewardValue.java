@@ -3,7 +3,7 @@ public class RewardValue {
 
     private int miles; //
 
-    private final static double CONVERSION_RATE = 0.035;
+    private final static double CONVERSION_RATE = 0.0035;
 
     public RewardValue(double cash) {
         this.cash = cash;
